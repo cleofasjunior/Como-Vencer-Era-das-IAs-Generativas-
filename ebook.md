@@ -6,13 +6,17 @@ Neste livro, você embarcará em uma jornada para entender como a inteligência 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
 - IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
-- Ferramenta **Libre Office** para edição.
+- Ferramenta **Microsoft Word** para edição;
+- Ferramenta **[Canva](https://www.canva.com/)** para o Template do ebook.
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+A ferramenta "ChatGPT" foi utlizada para revisar a pesquisa sobre Inteligência Artificial e a educação, na estruturação do conteúdo e aprimoramento das ideias. Enquanto, com o "Leonardo AI" foram criadas imagens exclusivas para o ebook. Além disso, a edição do texto no Microsoft Word. Para concluir, sendo desenvolvida no "Canva" um template exclusivo para o ebook.
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+O ebook foi estruturado com cinco capítulos: Capítulo 1: A Evolução da Educação e o Surgimento da IA
+•	Conteúdo: Este capítulo abordará como a educação evoluiu ao longo do tempo, desde métodos tradicionais até a incorporação da tecnologia. Em seguida, exploraremos o surgimento da IA e seu papel no cenário educacional atual, destacando suas primeiras aplicações e o impacto inicial nas salas de aula.
+•	Temas-chave: História da educação, revolução tecnológica, introdução à IA na educação, benefícios iniciais.
+.
 
 [LINK PARA O E-BOOK AQUI]()
 
