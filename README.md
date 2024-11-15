@@ -1,4 +1,4 @@
-# Como Explorar as IAs Generativas na Educação;)
+# Como Explorar as IAs Generativas na Educação e a Formação de Professores;
 
 ## 📒 Descrição
 Elaboração de um ebook e treinamento online sobre O Futuro da Educação com Inteligência Artificial: Transformação e Desafios, com o uso de IAs Generativa em toda a produção.
