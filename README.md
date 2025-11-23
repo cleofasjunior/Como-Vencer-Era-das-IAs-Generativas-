@@ -27,8 +27,8 @@ Para garantir que o conteúdo fosse **pedagogicamente correto** e não apenas "t
 *Confira a biblioteca completa de prompts na pasta [`/prompts`](./prompts).*
 
 ## 🚀 Resultados e Impacto
-* [📥 Download do Ebook (PDF)](./results/ebook_final/O_Futuro_da_Educacao_IA.pdf)
-* [📊 Visualizar Apresentação do Treinamento](./results/material_didatico/slides_curso.pdf)
+* [📥 Download do Ebook (PDF)](results/ebook_final)
+* [📊 Visualizar Apresentação do Treinamento](results/material_didatico)
 
 ## 🧐 Reflexão: "Natural ou Fake Natty?"
 Embora 100% do texto base tenha sido gerado por IA, a curadoria humana foi essencial para garantir a sensibilidade necessária ao falar com educadores. A IA atuou como "copiloto conteudista", mas a visão pedagógica permaneceu humana.
